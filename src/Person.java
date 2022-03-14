@@ -18,5 +18,10 @@ public class Person {
     }
 
     //Create a equals method here
+    public String equals(){
+     if((name() && birthday()) == (getName() && getBirthday()){
+         
+     }
+    }
     
 }
